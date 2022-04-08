@@ -1,4 +1,7 @@
 # hedgehogtech
+Задание: https://hedgehogtech.notion.site/Java-Kotlin-Backend-Junior-73ec0647a2ec4219866773511afbc37c
+
+
 docker pull arsent76/hedgehogtech:latest
 docker run arsent76/hedgehogtech:latest -p 8080:8080
 ### Добавление пользователя
